@@ -1,27 +1,27 @@
 # festi.peuple
 
-Vu les circonstances actuelles, nous avons réalisé “Festi.People” quiservira au ralentissement
-de la propagation du virus dans des futurs grands évènements.
+Vu les circonstances sanitaires actuelles, nous avons eu comme idée de réaliser “Festi.People” un prototype qui pourrait permettre le ralentissement
+de la propagation du virus Covid-19 dans des futurs grands évènements.
 Festi.People adopte une architecture IOT qui sera déployé dans un emplacement
 géographique bien déterminé, l'utilité de notre projet est de quantifier le flux de personnes
 en entrée et en sortie afin de contrôler et monitorer le lieu.
-Festi.People va créer une interconnexion entre notre lieu et internet via un réseau de
-capteurs.
+Festi.People va créer une interconnexion entre notre lieu et internet via le réseau Lora.
 
-Cette interconnexion se caractérise par l’ensemble de fonctionnalités suivantes :
-* La première fonctionnalité est déterminée le sens du mouvement pour faire la
-distinction entre une entrée et une sortie.
-* La deuxième fonctionnalité s’agit de transférer les données vers un serveur web de
-façon unidirectionnelle, confidentielle et distante.
-* La dernière fonctionnalité sert à traiter les données dans une interface adaptée pour
-afficher les données.
-Toutes les fonctionnalités seront détaillées dans la suite de ce rapport. Les tâches qui seront
-exécutées par notre projet doivent être assurer pendant une longue durée de temps pour
-éviter toutes sortes de pertes d’informations.
+Toutes les informations sont disponibles dans le fichier Rapport-IoT-final.pdf
+
+## Schéma de l'architecture
+
+![miss](https://github.com/bastvdn/festi.peuple/blob/master/img/Archi.PNG?raw=true)
+
 
 ## Mise en place
 
 Les instructions de mise en place sont dans le fichier Rapport-IoT-final.pdf
+
+## Apparence du Dashboard
+
+
+![miss](https://github.com/bastvdn/festi.peuple/blob/master/img/Capture1.PNG?raw=true)
 
 ## Logiciels utilisés
 
