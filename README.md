@@ -1,4 +1,4 @@
-## festi.peuple
+# festi.peuple
 
 Vu les circonstances actuelles, nous avons réalisé “Festi.People” quiservira au ralentissement
 de la propagation du virus dans des futurs grands évènements.
@@ -18,3 +18,7 @@ afficher les données.
 Toutes les fonctionnalités seront détaillées dans la suite de ce rapport. Les tâches qui seront
 exécutées par notre projet doivent être assurer pendant une longue durée de temps pour
 éviter toutes sortes de pertes d’informations.
+
+## Mise en place
+
+Les instructions de mise en place sont dans le fichier Rapport-IoT-final.pdf
