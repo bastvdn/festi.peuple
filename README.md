@@ -22,3 +22,17 @@ exécutées par notre projet doivent être assurer pendant une longue durée de 
 ## Mise en place
 
 Les instructions de mise en place sont dans le fichier Rapport-IoT-final.pdf
+
+## Logiciels utilisés
+
+* [Arduino](https://www.arduino.cc/)
+* [LoraWan Network](https://lora-alliance.org/about-lorawan/)
+* [TheThingsNetwork](https://www.thethingsnetwork.org/)
+* [Tago.io](https://tago.io/)
+
+## Auteurs
+
+* **Van Den Neste Bastien** - [github](https://github.com/bastvdn)
+* **Koolwx Abdoulaye** - [github](https://github.com/Horsefactor/)
+* **Bukarsa Zakaria** - [github](https://github.com/17338)
+* **Rekik Heni** - [github](https://github.com/heni974782/)
