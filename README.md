@@ -9,6 +9,12 @@ Festi.People va créer une interconnexion entre notre lieu et internet via le r�
 
 Toutes les informations sont disponibles dans le fichier Rapport-IoT-final.pdf
 
+## Matériel Requis
+
+* 1 [Arduino feather 32u4 Lora](https://shop.mchobby.be/fr/feather-adafruit/860-feather-32u4-basic-proto-atmega32u4-8mhz-3232100008601-adafruit.html)
+*  2 [Capteurs ultrasonic - HC-SR04](https://shop.mchobby.be/fr/proximite-distance/561-capteur-distance-ultrason-hc-sr04-3232100005617.html)
+* 1 [Gateway LoRaWAN](https://www.thethingsnetwork.org/docs/gateways/start/list.html)
+
 ## Schéma de l'architecture
 
 ![miss](https://github.com/bastvdn/festi.peuple/blob/master/img/Archi.PNG?raw=true)
