@@ -33,6 +33,6 @@ Les instructions de mise en place sont dans le fichier Rapport-IoT-final.pdf
 ## Auteurs
 
 * **Van Den Neste Bastien** - [github](https://github.com/bastvdn)
-* **Koolwx Abdoulaye** - [github](https://github.com/Horsefactor/)
+* **Koolwx Abdoulaye** - [github](https://github.com/ablo340)
 * **Bukarsa Zakaria** - [github](https://github.com/17338)
 * **Rekik Heni** - [github](https://github.com/heni974782/)
