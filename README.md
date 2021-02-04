@@ -14,6 +14,7 @@ Toutes les informations sont disponibles dans le fichier Rapport-IoT-final.pdf
 * 1 [Arduino feather 32u4 Lora](https://shop.mchobby.be/fr/feather-adafruit/860-feather-32u4-basic-proto-atmega32u4-8mhz-3232100008601-adafruit.html)
 *  2 [Capteurs ultrasonic - HC-SR04](https://shop.mchobby.be/fr/proximite-distance/561-capteur-distance-ultrason-hc-sr04-3232100005617.html)
 * 1 [Gateway LoRaWAN](https://www.thethingsnetwork.org/docs/gateways/start/list.html)
+* 1 [Capteur IR HC-SR501](https://www.amazon.fr/ANGEEK-HC-SR501humain-modules-capteur-Infrarouge/dp/B07RJ2M26R/ref=sr_1_11?dchild=1&keywords=capteur+infrarouge+arduino&qid=1612472989&sr=8-11)
 
 ## Schéma de l'architecture
 
